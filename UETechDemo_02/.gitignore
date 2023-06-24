@@ -78,3 +78,10 @@ Content/StarterContent/*
 Content/Thirdparty/*
 Content/Megascans/*
 Content/MSPresets/*
+
+## Thirdperson
+Content/ThirdPerson/*
+Content/Characters/*
+Content/LevelPrototyping/*
+Content/__ExternalActors__/ThirdPerson/*
+Content/__ExternalObjects__/ThirdPerson/*
