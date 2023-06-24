@@ -76,3 +76,5 @@ DerivedDataCache/*
 # MyCustom
 Content/StarterContent/*
 Content/Thirdparty/*
+Content/Megascans/*
+Content/MSPresets/*
